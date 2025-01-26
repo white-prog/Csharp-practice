@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\obj\Debug\net9.0\CsharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\obj\Debug\net9.0\CsharpPractice.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\obj\Debug\net9.0\CsharpPractice.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\obj\Debug\net9.0\CsharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\bin\Debug\net9.0\CsharpPractice.exe
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\bin\Debug\net9.0\CsharpPractice.deps.json
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\bin\Debug\net9.0\CsharpPractice.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\bin\Debug\net9.0\CsharpPractice.dll
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\bin\Debug\net9.0\CsharpPractice.pdb
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\obj\Debug\net9.0\CsharpPractice.dll
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\obj\Debug\net9.0\refint\CsharpPractice.dll
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\obj\Debug\net9.0\CsharpPractice.pdb
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\obj\Debug\net9.0\CsharpPractice.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\dotnet\CsharpPractice\obj\Debug\net9.0\ref\CsharpPractice.dll
